@@ -11,39 +11,39 @@ const Middle = () => {
         <h1>Meet The Team</h1>
         <div className="team">
           <div className="box">
-            <img src={ images.img1 } />
+            <img src={images.img1} />
             <h2>
-              James <span>Flower</span>
+              James <span>Lorem Ipsum</span>
             </h2>
           </div>
           <div className="box">
-            <img src={ images.img2 } />
+            <img src={images.img2} />
             <h2>
-              Jade <span>Flower</span>
+              Jade <span>Lorem Ipsum</span>
             </h2>
           </div>
           <div className="box">
-            <img src={ images.img3 } />
+            <img src={images.img3} />
             <h2>
-              Kenneth <span>Flower</span>
+              Kenneth <span>Lorem Ipsum</span>
             </h2>
           </div>
           <div className="box">
-            <img src={ images.img4 } />
+            <img src={images.img4} />
             <h2>
-              Rodney <span>Flower</span>
+              Rodney <span>Lorem Ipsum</span>
             </h2>
           </div>
           <div className="box">
-            <img src={ images.img5 } />
+            <img src={images.img5} />
             <h2>
-              Nash <span>Flower</span>
+              Nash <span>Lorem Ipsum</span>
             </h2>
           </div>
           <div className="box">
-            <img src={ images.img6 } />
+            <img src={images.img6} />
             <h2>
-              Ian <span>Flower</span>
+              Ian <span>Lorem Ipsum</span>
             </h2>
           </div>
         </div>
