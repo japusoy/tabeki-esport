@@ -1,0 +1,23 @@
+@media (max-width: 800px) {
+	#banner {
+		.slogan {
+			h2 { font-size: 10vw; }
+		}
+	}
+}
+
+@media (max-width: 600px) {
+	#banner {
+		padding: 0 25px;
+		.slogan {
+			h2 { font-size: 30px; }
+		}
+	}
+	#middle {
+		padding: 0 25px 45px;
+
+		h1 {
+			font-size: 20px;
+		}
+	}
+}
